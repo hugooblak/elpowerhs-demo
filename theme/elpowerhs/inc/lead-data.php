@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'El Power HS AB',
+	'bransch'        => 'Elektriker',
 	'telefon'        => '072-232 11 70',
 	'telefon_tel'    => '+46722321170',
 	'ort'            => 'Arlöv',
